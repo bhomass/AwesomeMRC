@@ -41,7 +41,7 @@ setup(name='AwesomeMRC',
           'tensorboardX',
           'scikit-learn',
           'sentencepiece',
-          'sacremoses,
+          'sacremoses',
           'regex',
           'boto3'
       ],
