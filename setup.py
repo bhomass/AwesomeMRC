@@ -44,7 +44,6 @@ setup(name='AwesomeMRC',
           'sacremoses',
           'regex',
           'boto3',
-          'nvidia-apex==0.1'
       ],
       extras_require=extras,
       package_data={'NERO': ['data/*', 'data/*/*']},
