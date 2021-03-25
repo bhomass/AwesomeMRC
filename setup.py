@@ -43,7 +43,8 @@ setup(name='AwesomeMRC',
           'sentencepiece',
           'sacremoses',
           'regex',
-          'boto3'
+          'boto3',
+          'apex'
       ],
       extras_require=extras,
       package_data={'NERO': ['data/*', 'data/*/*']},
